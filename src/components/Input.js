@@ -24,7 +24,7 @@ function Input(props) {
               type="submit"
               onClick={props.submitHandlerProp}
             >
-              Button
+              Search User
             </Button>
           </InputGroup.Append>
         </InputGroup>
